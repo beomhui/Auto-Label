@@ -1,4 +1,4 @@
-### Auto Labeling
+### Auto Labeling System
 
 > **Collaborator : 이범희, 김남훈, 김민규**
 
