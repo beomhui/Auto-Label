@@ -1,6 +1,6 @@
 ### Auto Labeling System
 
-> **Collaborator : 이범희, 김남훈, 김민규**
+> **Collaborator : 이범희, 김민규, 김남훈**
 
 1. Auto Labeling의 전체적인 Architecture 분석
 2. 입력된 이미지에 대한 분류와 객체 탐지를 위한 예측 모델 개발
